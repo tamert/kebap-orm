@@ -42,14 +42,6 @@ return array(
             'pass' => 'root',
             'charset' => 'utf8'
 
-             /*
-            'name' => 'bugragun_ar',
-            'host' => 'bugraguney.com.tr',
-            'port' => '3306',
-            'user' => 'bugragun_ar',
-            'pass' => 'ASD123qwe',
-            'charset' => 'utf8'
-**/
         )
     ),
     'components'=>array(
