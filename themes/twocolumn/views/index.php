@@ -17,7 +17,7 @@ foreach(Deneme::findAll() as $item){
 which returns
 <pre>';
 foreach(Deneme::findAll() as $item){
-    $item->children;
+
     echo "Title : $item->title".PHP_EOL;
 }
 echo "</pre>";
