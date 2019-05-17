@@ -1,4 +1,4 @@
 - render auto dosya varsa edilebilir
-- Gateway controller ve action alanlarında ucfirst yetersiz kalır. strtolower sonrası ucfirst yapılmalı.
+- Gateway controller ve action alanlarÃ½nda ucfirst yetersiz kalÃ½r. strtolower sonrasÃ½ ucfirst yapÃ½lmalÃ½.
 - set_error_handler() da eklenebilir.
-- SystemException HttpException ve Applicationda handleException toparlanmalı..
+- SystemException HttpException ve Applicationda handleException toparlanmalÄ±
